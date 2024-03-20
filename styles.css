@@ -57,9 +57,9 @@ html {
 }
 
 .front {
-  /* display: flex;
+  display: flex;
   justify-content: center;
-  align-items: center; */
+  align-items: center;
   position: absolute;
   font-weight: 200;
   font-size: xx-large;

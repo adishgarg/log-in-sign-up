@@ -56,5 +56,4 @@ const scrollProgressBar = () => {
 		progressBar.style.width = '0%';
 	}
 };
-
-window.addEventListener('scroll', scrollProgressBar);
+  window.addEventListener('scroll', scrollProgressBar);
